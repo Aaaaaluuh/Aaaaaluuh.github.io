@@ -1,0 +1,27 @@
+body{
+    background-color: #ffefd7;
+    display: table;
+}
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    text-align: justify;
+    font-family: 'Nunito', Helvetica, serif;
+}
+
+li{
+    display: table-cell;
+    align-content: center;
+    clear: both;
+}
+
+img{
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
